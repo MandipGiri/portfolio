@@ -10,7 +10,7 @@ export const metadata = {
   description: 'Mandip Giri a Full Stack Developer from Nepal',
 }
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className="!scroll-smooth">
       <body className={`${inter.className} bg-gray-50 text-gray-950 relative pt-28 sm:pt-36`}>
