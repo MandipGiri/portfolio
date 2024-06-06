@@ -67,13 +67,13 @@ export const projectsData = [
   {
     title: 'TODO',
     description: 'DESCRIPTION',
-    tags: ['React', 'MongoDB', 'Tailwind'],
+    tags: ['React'],
     imageUrl: corpcommentImg,
   },
   {
     title: 'TODO',
     description: 'DESCRIPTION',
-    tags: ['React', 'MongoDB', 'Tailwind'],
+    tags: ['React'],
     imageUrl: corpcommentImg,
   },
 ] as const
