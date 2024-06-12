@@ -18,24 +18,24 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in <span className="font-medium">Accounting</span>, I decided
-        to pursue my passion for programming. I enrolled in a coding bootcamp and learned{' '}
-        <span className="font-medium">full-stack web development</span>.{' '}
-        <span className="italic">My favorite part of programming</span> is the problem-solving
-        aspect. I <span className="underline">love</span> the feeling of finally figuring out a
-        solution to a problem. My core stack is{' '}
-        <span className="font-medium">React, Next.js, Node.js, and MongoDB</span>. I am also
-        familiar with TypeScript and Prisma. I am always looking to learn new technologies. I am
-        currently looking for a <span className="font-medium">full-time position</span> as a
-        software developer.
+        After graduating with a degree in Computer Engineering, I decided to pursue my career as a
+        software engineer. I started my career as an android developer intern & got the job after 2
+        months of internship as Jr.Android Dev. I worked on various projects during my time as
+        android dev and again was promoted in the same company. While I was working as android dev I
+        got the opportunity to learn and work with React. I got to work on a project for an app with
+        React Native after which my enthusiasm for React peaked.I continued to work on React Native
+        projects and after the switch from the company, I started working as a full-stack developer.
+        I have been working as a full-stack developer for the past 2 years. As a full stack
+        developer, I have worked on various various technologies like React, Node, Express, MongoDB,
+        AWS, etc. What I love about programming is the aspect of problem solving and coming together
+        with different people from different backgrounds to create something meaningful. I love the
+        aspect of learning new things and the challenges that come with it. I am always looking to
+        learn new things and improve my skills.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing video games, watching
-        movies, and playing with my dog. I also enjoy{' '}
-        <span className="font-medium">learning new things</span>. I am currently learning about{' '}
-        <span className="font-medium">history and philosophy</span>. I'm also learning how to play
-        the guitar.
+        When I'm not coding, I enjoy playing cooking, playing video games & watching movies. I also
+        enjoy learning new things & try as much as I can to learn something new every day.
       </p>
     </motion.section>
   )
