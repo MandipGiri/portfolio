@@ -40,6 +40,7 @@ export default function Contact() {
           const { data, error } = await sendEmail(formData)
           if (error) {
             toast.error(error)
+            toast.error(process.env.RESEND_API_KEY?.toString() ?? 'No API key found')
             return
           }
           toast.success('Email sent successfully!')
