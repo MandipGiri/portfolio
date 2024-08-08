@@ -72,7 +72,7 @@ export const experiencesData = [
     title: 'Software Engineer',
     location: 'Cloudfactory ',
     description:
-      'As a Software Engineer at Cloudfactory, I had been working as a fullstack developer for a internal tool of the company. I had been working to develop features along with understanding domains. I had been grooming myself to new tech stack that included React with NodeJS in BFF pattern followed by Golang and AWS. In this time I also had mentored interns',
+      'As a Software Engineer at Cloudfactory, I had been working as a fullstack developer for a internal tool of the company. I had been working to develop features along with understanding domains. I had been grooming myself to new tech stack that included React with NodeJS in BFF pattern followed by Golang and AWS. In this time I also had mentored interns.I was fortunate to present on topic of React Testing Library in a js community called KTMJS.', 
     icon: React.createElement(LuComputer),
     date: 'Jan , 2022 - Jul, 2023',
   },
