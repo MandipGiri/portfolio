@@ -34,7 +34,7 @@ export default function About() {
       </p>
 
       <p>
-        When I'm not coding, I enjoy playing cooking, playing video games & watching movies. I also
+        When I'm not coding, I enjoy cooking. I also
         enjoy learning new things & try as much as I can to learn something new every day.
       </p>
     </motion.section>
