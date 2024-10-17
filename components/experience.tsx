@@ -20,7 +20,7 @@ export default function Experience() {
           return (
             <React.Fragment key={index}>
               <VerticalTimelineElement
-                visible={inView}
+                visible={true}
                 className="vertical-timeline-element--work"
                 contentStyle={{
                   background: theme === 'light' ? '#f3f4f6' : 'rgba(255, 255, 255, 0.05)',
@@ -44,9 +44,12 @@ export default function Experience() {
               >
                 <h3 className="font-semibold capitalize">{item.title}</h3>
                 <p className="font-normal !mt-0">{item.location}</p>
-                <p className="!mt-1 !font-normal text-gray-700 dark:text-white/75">
-                  {item.description}
-                </p>
+
+                {item.description.split('\n').map((line, index) => (
+                  <p className="!mt-1 !font-normal text-gray-700 dark:text-white/75" key={index}>
+                    {line}
+                  </p>
+                ))}
               </VerticalTimelineElement>
             </React.Fragment>
           )

@@ -40,40 +40,40 @@ export const experiencesData = [
   {
     title: 'Android Internship',
     location: 'Hazesoft Pvt. Ltd',
-    description: `\n• Built two real-world Android applications, gaining hands-on experience in mobile app development.\n
-\n• Learned and applied key concepts of the Software Development Life Cycle (SDLC), including planning, design, development, testing, and deployment.\n
-\n• Collaborated with senior developers to understand best practices in Android development, focusing on Java and Android SDK.\n
-\n• Enhanced debugging and troubleshooting skills by resolving issues during the development and testing phases.Learned about android development processes and its architecture, software development life cycles in a real world project\n`,
+    description: `• Built two real-world Android applications, gaining hands-on experience in mobile app development.\n
+• Learned and applied key concepts of the Software Development Life Cycle (SDLC), including planning, design, development, testing, and deployment.\n
+• Collaborated with senior developers to understand best practices in Android development, focusing on Java and Android SDK.\n
+• Enhanced debugging and troubleshooting skills by resolving issues during the development and testing phases.Learned about android development processes and its architecture, software development life cycles in a real world project\n`,
     icon: React.createElement(LuSmartphone),
     date: 'Oct, 2017 - Dec, 2017',
   },
   {
     title: 'Jr. Android Developer',
     location: 'Hazesoft Pvt. Ltd',
-    description: `\n•Finished my internship early and joined as a Jr.Android Developer.\n
-      \n• As Junior Developer, I finished the 2 projects along side with the senior and kept on learning and improving myself.`,
+    description: `• Finished my internship early and joined as a Jr.Android Developer.\n
+      • As Junior Developer, I finished the 2 projects along side with the senior and kept on learning and improving myself.`,
     icon: React.createElement(LuSmartphone),
     date: 'Jan, 2018 - Apr, 2018',
   },
   {
     title: 'Mobile App Developer',
     location: 'Hazesoft Pvt. Ltd',
-    description: `\n• Led the entire mobile app department, managing app-side development and overseeing all projects independently for several months.\n
-\n• Developed and maintained mobile applications using both React Native and Android Native, ensuring high-quality code and app performance across projects.\n
-\n• Took on the role of Senior Developer in the mobile team, guiding junior developers and providing technical leadership to ensure successful project delivery.\n
-\n• Played the role of Project Lead on several key projects, managing timelines, coordinating with stakeholders, and ensuring alignment with client requirements. \n
-\n• Spearheaded app upgrades by integrating new technologies and features, while resolving bugs and ensuring continuous improvement.\n`,
+    description: `• Led the entire mobile app department, managing app-side development and overseeing all projects independently for several months.\n
+• Developed and maintained mobile applications using both React Native and Android Native, ensuring high-quality code and app performance across projects.\n
+• Took on the role of Senior Developer in the mobile team, guiding junior developers and providing technical leadership to ensure successful project delivery.\n
+• Played the role of Project Lead on several key projects, managing timelines, coordinating with stakeholders, and ensuring alignment with client requirements. \n
+• Spearheaded app upgrades by integrating new technologies and features, while resolving bugs and ensuring continuous improvement.\n`,
     icon: React.createElement(LuSmartphone),
     date: 'Apr, 2018 - July, 2019',
   },
   {
     title: 'Application Engineer',
     location: 'AMNIL Technologies',
-    description: `\n• Developed and maintained mobile applications using React Native, while also providing feature enhancements and issue resolution for legacy projects.\n
-\n• Supported the frontend team by contributing to React JS projects, ensuring seamless integration across platforms.\n
-\n• Mentored interns, guiding them in React development and fostering a collaborative and growth-focused environment within the team. \n
-\n• Led a team in the final project phase, managing team members and maintaining clear communication with the client to bridge any gaps between the team and client expectations.\n
-\n• Analyzed client requirements, ensured the team had a thorough understanding, and oversaw the successful delivery of projects in line with client needs.\n`,
+    description: `• Developed and maintained mobile applications using React Native, while also providing feature enhancements and issue resolution for legacy projects.\n
+• Supported the frontend team by contributing to React JS projects, ensuring seamless integration across platforms.\n
+• Mentored interns, guiding them in React development and fostering a collaborative and growth-focused environment within the team. \n
+• Led a team in the final project phase, managing team members and maintaining clear communication with the client to bridge any gaps between the team and client expectations.\n
+• Analyzed client requirements, ensured the team had a thorough understanding, and oversaw the successful delivery of projects in line with client needs.\n`,
     icon: React.createElement(LuSmartphone),
     date: 'July, 2019 - Dec, 2021',
   },
@@ -81,11 +81,11 @@ export const experiencesData = [
     title: 'Software Engineer',
     location: 'Cloudfactory ',
     description:
-      `\n• Developed and enhanced features as a full-stack developer on an internal tool while gaining a strong understanding of various business domains.\n
-\n• Worked extensively with a modern tech stack, including React, NodeJS (BFF pattern), Golang, and AWS, to deliver scalable and maintainable solutions.\n
-\n• Mentored interns, supporting their growth by providing guidance and technical insights, fostering a culture of learning within the team.\n
-\n• Presented at KTMJS on React Testing Library, sharing knowledge with the developer community and further developing public speaking and technical presentation skills.\n
-\n• Actively contributed to both team success and the wider tech community, refining technical expertise and fueling a passion for mentorship and community engagement.\n`,
+      `• Developed and enhanced features as a full-stack developer on an internal tool while gaining a strong understanding of various business domains.\n
+• Worked extensively with a modern tech stack, including React, NodeJS (BFF pattern), Golang, and AWS, to deliver scalable and maintainable solutions.\n
+• Mentored interns, supporting their growth by providing guidance and technical insights, fostering a culture of learning within the team.\n
+• Presented at KTMJS on React Testing Library, sharing knowledge with the developer community and further developing public speaking and technical presentation skills.\n
+• Actively contributed to both team success and the wider tech community, refining technical expertise and fueling a passion for mentorship and community engagement.\n`,
     icon: React.createElement(LuComputer),
     date: 'Jan , 2022 - Jul, 2023',
   },
@@ -93,10 +93,10 @@ export const experiencesData = [
     title: 'Sr. Software Engineer',
     location: 'Cloudfactory ',
     description:
-      `\n• Lead architecture design and epic refinements to ensure alignment between technical implementation and business objectives, focusing on long-term scalability and efficiency.\n
-\n• Volunteered to step in as a temporary Team Lead during the absence of the Team Lead, demonstrating proactive leadership by driving sprint execution, mentoring team members, and facilitating discussions to keep projects on track.\n
-\n• Contributed to the development and refinement of core systems using React, NodeJS (BFF pattern), Golang, and AWS.\n
-\n• Actively took initiatives to improve team processes and foster a collaborative environment, showcasing a passion for innovation and team growth.\n`,
+      `• Lead architecture design and epic refinements to ensure alignment between technical implementation and business objectives, focusing on long-term scalability and efficiency.\n
+• Volunteered to step in as a temporary Team Lead during the absence of the Team Lead, demonstrating proactive leadership by driving sprint execution, mentoring team members, and facilitating discussions to keep projects on track.\n
+• Contributed to the development and refinement of core systems using React, NodeJS (BFF pattern), Golang, and AWS.\n
+• Actively took initiatives to improve team processes and foster a collaborative environment, showcasing a passion for innovation and team growth.\n`,
     icon: React.createElement(LuComputer),
     date: 'Jul , 2023 - Present',
   },
