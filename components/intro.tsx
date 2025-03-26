@@ -9,6 +9,7 @@ import { HiDownload } from 'react-icons/hi'
 import { FaGithubSquare } from 'react-icons/fa'
 import { useSectionInView } from '@/lib/hooks'
 import { useActiveSectionContext } from '@/context/active-context'
+import mg from '@/public/mg.png'
 
 export default function Intro() {
   const { ref } = useSectionInView('Home', 0.5)
@@ -22,16 +23,16 @@ export default function Intro() {
     >
       <div className="flex items-center justify-center">
         <div className="relative">
-          <motion.div
+            <motion.div
             initial={{ opacity: 0, scale: 0 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{
               type: 'tween',
               duration: 0.2,
             }}
-          >
+            >
             <Image
-              src="https://images.unsplash.com/photo-1634926878768-2a5b3c42f139?q=80&w=2200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src={mg}
               alt="Mandip portrait"
               width="192"
               height="192"
@@ -39,7 +40,7 @@ export default function Intro() {
               priority={true}
               className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
-          </motion.div>
+            </motion.div>
 
           <motion.span
             className="absolute bottom-0 right-0 text-4xl"
